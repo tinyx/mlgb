@@ -1,2 +1,2 @@
-# mlgb
+# MLGB
 Make life greatly better, or you know...
